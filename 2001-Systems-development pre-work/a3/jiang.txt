@@ -1,0 +1,15 @@
+Next, let me cover the section on reviewing patients. This section includes several functions that a physician account can operate such as viewing diary data and providing feedback, recording appointment records, and providing resources for patients.
+
+First, the doctor opens the hospital's official website and uses the doctor ID and password to log in to the doctor's account. This page is the doctor's home page.
+
+If the doctor's certificate is about to expire, there will be a prompt next to the account on the doctor's homepage. Click on the account to see the prompt pushed by the system.The doctor needs to update the corresponding information according to the prompt.
+
+All patients requiring treatment from this doctor are displayed directly on the doctor's homepage. By clicking on this blue character, the 'view diary data' doctor can directly view the detailed information of the patient.
+
+The doctor can view the details of this patient, the date of the last appointment and the date of the next appointment.By analyzing the data and clicking feedback, the doctor can edit the information feedback to the patient.
+
+When the doctor needs to view the details of each appointment, they can click the appointment notes to view.By clicking on this blue character, the 'view detailed' doctor can directly view the detailed information of the each appointment.
+
+Of course, in order to help patients control blood sugar, doctors need to push different handouts and resources according to patients' different conditions.
+
+This is what the system includes. Thank you all
